@@ -52,7 +52,7 @@ Brazilian Exclusive Economic Zone shapefile for spatial analyses.
 
 ---
 
-## 🧰 **R Workflow Description**
+## **R Workflow Description**
 
 ### **1) Editing_mitogenomic_tree.R**  
 Prepares and prunes the phylogeny for downstream biodiversity analyses.
@@ -86,7 +86,7 @@ Hotspot/coldspot identification and overlap with MPAs → **conservation gap ana
 
 ---
 
-## 🧪 Software Requirements
+## Software Requirements
 
 ### Core Software  
 - **R ≥ 4.4**  
